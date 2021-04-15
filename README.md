@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://github.com/tiwari1302/EasyOrders">EasyOrders</a>
 - 🌱 I’m currently learning Python, Django, data structures and algorithms.
 - <img src="/twitter-logo1.png" width="25" height="20"> twitter.com/tiwari1302
-- <img src="/linkedin-logo 1.png" width="20" height="20">
+- <img src="/linkedin-logo 1.png" width="20" height="20"> <a href="https://www.linkedin.com/in/shashank-tiwari-885534173/">shashank-tiwari-885534173</a>
 - 📫 How to reach me: tiwari1302@gmail.com
