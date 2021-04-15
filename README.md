@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: He/His
+- 🔭 I’m currently working on <a href="https://github.com/tiwari1302/EasyOrders">EasyOrders</a>
+- 🌱 I’m currently learning Python, Django, data structures and algorithms.
