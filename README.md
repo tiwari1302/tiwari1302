@@ -1,6 +1,5 @@
-### Hi there, I am Shashank Tiwari 👋
-
 <!--
+### Hi there, I am Shashank Tiwari 👋
 **tiwari1302/tiwari1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - <img src="/twitter-logo1.png" width="25" height="20"> [tiwari1302](https://twitter.com/tiwari1302)
 - <img src="/linkedin-logo 1.png" width="20" height="20"> <a href="https://www.linkedin.com/in/shashank-tiwari-885534173/">shashank-tiwari-885534173</a>
 -->
-<h1 align="center">Hi there 👋, I'm Shashank Tiwari</h1>
+<h1 align="center">Hi there, I am Shashank Tiwari 👋</h1>
 <h3 align="center">A passionate learner and developer from India</h3>
 
 - 😄 Pronouns: He/His
