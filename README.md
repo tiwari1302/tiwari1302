@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on [EasyOrders](https://github.com/tiwari1302/EasyOrders)
+- 🔭 I’m currently working on [EasyOrders](https://github.com/tiwari1302/EasyOrders).
 
-- 🌱 I’m currently learning **Python, Django and data structures and algorithms**
+- 🌱 I’m currently learning **Python, Django and data structures and algorithms**.
 
-- 👯 I’m looking to collaborate on **projects on data science**
+- 👯 I’m looking to collaborate on **projects on data science** and **Django web development projects**.
 
 - 📫 How to reach me **tiwari1302@gmail.com**
 
