@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on [EasyOrders](https://github.com/tiwari1302/EasyOrders) and [TSF-GRIP](https://github.com/tiwari1302/TSF-GRIP).
+- 🔭 I’m currently working on [Asset Management Tool](https://github.com/tiwari1302/assetMgmt).
 
 - 🌱 I’m currently learning **Python, Django and data structures and algorithms**.
 
