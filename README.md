@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - <img src="/linkedin-logo 1.png" width="20" height="20"> <a href="https://www.linkedin.com/in/shashank-tiwari-885534173/">shashank-tiwari-885534173</a>
 -->
 <h1 align="center">Hi there, I am Shashank Tiwari 👋</h1>
-<h3 align="center">A passionate learner and developer from India</h3>
+<h3 align="center">A passionate learner and developer from India 🇮🇳</h3>
 
 - 😄 Pronouns: He/His
 
